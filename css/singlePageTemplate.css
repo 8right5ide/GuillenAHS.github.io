@@ -1,14 +1,14 @@
 @charset "UTF-8";
 /* Body */
 body {
-	font-family: source-sans-pro;
-	background-color: #040037;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	font-style: normal;
-	font-weight: 200;
+    font-family: source-sans-pro;
+    background-color: #104BB3;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-style: normal;
+    font-weight: 200;
 }
 /* Container */
 .container {
@@ -16,14 +16,14 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	height: 1000px;
-	background-color: #003874;
+	background-color: #585858;
 }
 /* Navigation */
 header {
-	width: 100%;
-	height: 5%;
-	background-color: #000000;
-	border-bottom: 1px solid #007A93;
+    width: 100%;
+    height: 5%;
+    background-color: #5B5B5B;
+    border-bottom: 1px solid #007A93;
 }
 .logo {
 	color: #0A4DA9;
@@ -47,7 +47,7 @@ header nav ul {
 }
 nav ul li {
 	float: left;
-	color: #001B44;
+	color: #009BD3;
 	font-size: 14px;
 	text-align: left;
 	margin-right: 25px;
@@ -63,17 +63,17 @@ ul li:hover a {
 	color: #2C9AB7;
 }
 .hero_header {
-	color: #227CF7;
-	text-align: center;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	letter-spacing: 4px;
+    color: #227CF7;
+    text-align: center;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    letter-spacing: 4px;
 }
 /* Hero Section */
 .hero {
-	background-color: #030303;
+	background-color: #020336;
 	padding-top: 150px;
 	padding-bottom: 150px;
 }
@@ -136,7 +136,7 @@ ul li:hover a {
 	margin-right: 5px;
 	margin-bottom: 5px;
 	margin-left: 5px;
-	color: #52BAD5;
+	color: #5C77F4;
 }
 .gallery .thumbnail p {
 	margin-top: 0px;
@@ -147,7 +147,7 @@ ul li:hover a {
 }
 /* Parallax Section */
 .banner {
-	background-color: #2D9AB7;
+	background-color: #07419B;
 	background-image: url(../images/parallax.png);
 	height: 400px;
 	background-attachment: fixed;
@@ -155,7 +155,7 @@ ul li:hover a {
 	background-repeat: no-repeat;
 }
 .parallax {
-	color: #FFFFFF;
+	color: #B0B0AC;
 	text-align: right;
 	padding-right: 100px;
 	padding-top: 110px;
